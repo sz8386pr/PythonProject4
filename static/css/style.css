@@ -1,0 +1,23 @@
+body{
+    background-color: #6495ed;
+    text-align: center;
+}
+table {
+    width: 100%;
+}
+
+td{
+width: 300px;
+text-align: center;
+}
+
+img{
+    border: 5px black;
+    width: 300px;
+    height: auto;
+}
+
+.source{
+    text-align: center;
+    text-transform: uppercase;
+}
